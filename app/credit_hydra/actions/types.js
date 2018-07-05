@@ -1,0 +1,8 @@
+export const SET_KEYSTORE = 'SET_KEYSTORE'
+export const SET_WEB3 = 'SET_WEB3'
+export const SET_PASSWORD = 'SET_PASSWORD'
+export const SET_PROFILE = 'SET_PROFILE'
+export const SET_HNT_BALANCE = 'SET_HNT_BALANCE'
+export const SET_USER_STATUS = 'SET_USER_STATUS'
+export const SET_READY = 'SET_READY'
+export const SET_JUST_REQUESTED = 'SET_JUST_REQUESTED'
