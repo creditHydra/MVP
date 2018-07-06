@@ -1,5 +1,0 @@
-export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
-export const LOGIN_FAILED = 'LOGIN_FAILED'
-export const SET_WALLET = 'SET_WALLET'
-export const SET_WEB3 = 'SET_WEB3'
-export const SET_PASSWORD = 'SET_PASSWORD'
